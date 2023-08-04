@@ -33,7 +33,7 @@ function Info_InnerComponent(props) {
     <div class="flex flex-col gap-8 w-11/12 sm:w-2/3 mx-auto my-20">
     <div class="flex items-center gap-8">
       <div class="h-[3px] w-full bg-gray-400"></div>
-      <p class="text-3xl sm:text-5xl font-bold text-stone-600 tracking-wider text-center whitespace-nowrap">サーバーへの参加方法は?</p>
+      <p class="text-2xl sm:text-5xl font-bold text-stone-600 tracking-wider text-center whitespace-nowrap">サーバーへの参加方法は?</p>
       <div class="h-[3px] w-full bg-gray-400"></div>
     </div>
     <div style="text-align: center;">
