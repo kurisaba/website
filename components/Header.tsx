@@ -33,6 +33,12 @@ export default function Header() {
           >
             YOUTUBE
           </a>
+          <a
+            class=" mr-2 rounded-lg p-3 mt-1 opacity-100"
+            href="https://tex.kurisaba.com/pack.zip"
+          >
+            Texture
+          </a>
         </div>
       </header>
     </>
