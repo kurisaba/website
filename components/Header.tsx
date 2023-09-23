@@ -6,7 +6,7 @@ export default function Header() {
           class="flex bg-header w-full fixed z-[100] top-0 left-0 text-sm sm:text-2xl font-medium text-white items-center justify-center z-[999]"
           style={{ background: "rgba(0, 0, 0, 0.5)" }}
         >
-          <a class="rounded-lg p-4 mt-1 opacity-100 scale-[0.925]" href="/">
+          <a class="rounded-lg p-3 mt-1 opacity-100 scale-[0.925]" href="/">
             Home
           </a>
           <a
