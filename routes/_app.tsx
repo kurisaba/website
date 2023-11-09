@@ -11,12 +11,12 @@ export default function App({ Component }: AppProps) {
         <meta property="og:description" content="Kurisaba offical site">
         <meta property="og:site_name" content="Kurisaba">
         <meta property="og:url" content="https://kurisaba.com">
-        <meta property="og:image" content="assets/Kurisaba.jpg">
+        <meta property="og:image" content="assets/Kuri.png">
         <meta property="og:locale" content="ja_JP">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="Kurisaba">
         <meta name="twitter:description" content="Kurisaba offical site">
-        <meta name="twitter:image" content="assets/Kurisaba.jpg">
+        <meta name="twitter:image" content="assets/Kuri.png">
         <meta name="twitter:creator" content="@amex2189"></meta>
       </head>
       <body>
